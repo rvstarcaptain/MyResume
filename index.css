@@ -60,6 +60,7 @@ body{
 .social-media{
     display: flex;
     justify-content: space-evenly;
+    color: #03a9f4;
 }
 .contactInfo{
     padding: 5%;

@@ -18,6 +18,8 @@ body{
     width: 90%;
     margin: 20px auto;
   }
+  
+  
 .left-section{
     grid-column: span 1;
     background-color: #003147;
@@ -60,7 +62,10 @@ body{
 .social-media{
     display: flex;
     justify-content: space-evenly;
-    color: #03a9f4;
+    
+}
+.social-media li{
+    color: #add8e6;
 }
 .contactInfo{
     padding: 5%;
